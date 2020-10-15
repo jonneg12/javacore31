@@ -1,1 +1,1 @@
-# Repo for Java Core course lection, Stream-API, task 1
+# Repo for Java Core Course, Lection Stream-API, task 1
